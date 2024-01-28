@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="" src=""  />
-</div>
+
 
 ###
 
